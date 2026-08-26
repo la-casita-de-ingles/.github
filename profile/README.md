@@ -1,6 +1,7 @@
 # La Casita de Inglés
 
-An English school for children, and the small team that builds the software it runs on.
+An English academy for children aged 1 to 12, and the small team that builds the software
+it runs on.
 
 Everything here is written by that team: the platform families and staff use every day,
 the site the school shows the world, the infrastructure underneath it, and the
@@ -42,7 +43,8 @@ were considered and rejected, so the same argument is not had twice.
 
 ## The repositories are private
 
-Deliberately. They carry the data and the operational detail of a school full of children,
-and there is no version of that which is safe to publish. What is public is this page.
+Deliberately. They carry the data and the operational detail of a school full of
+children, and there is no version of that which is safe to publish. What is public is this
+page.
 
 <sub>[lacasitadeingles.com](https://lacasitadeingles.com)</sub>
