@@ -1,7 +1,8 @@
 # La Casita de Inglés
 
-An English academy for children aged 1 to 12, and the small team that builds the software
-it runs on.
+An English academy for children aged 1 to 12 — **22 centres across Madrid, Barcelona,
+Valencia and Vigo, plus classes online** — and the small team that builds the software it
+runs on.
 
 Everything here is written by that team: the platform families and staff use every day,
 the site the school shows the world, the infrastructure underneath it, and the
