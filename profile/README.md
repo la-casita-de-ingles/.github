@@ -3,9 +3,9 @@
 An English academy for children aged 1 to 12, with centres across Spain and classes
 online, and the small team that builds the software it runs on.
 
-Everything here is written by that team: the platform families and staff use every day,
+Everything here is written by that team: the platform families and staff use every day, the app families carry in their pocket,
 the site the school shows the world, the infrastructure underneath it, and the
-documentation that keeps the four talking to each other.
+documentation that keeps them all talking to each other.
 
 ## What we build
 
@@ -16,6 +16,7 @@ documentation that keeps the four talking to each other.
 | **The public site** | Astro, built for accessibility and Core Web Vitals, with an agent that helps keep the content current |
 | **The infrastructure** | Ubuntu, nginx, Docker, DNS, and the runbooks that make a server reproducible rather than remembered |
 | **The deploy system** | OIDC-authenticated deployments from GitHub Actions, with no long-lived credentials on any machine |
+| **The family app** | A native app for Android and iPhone, for the families who use the platform. Started in October 2026 |
 | **The shared documentation** | Where the repositories talk to each other, and the only place a cross-team decision is allowed to live |
 
 ## How we work
