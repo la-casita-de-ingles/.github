@@ -16,6 +16,7 @@ documentation that keeps them all talking to each other.
 | **The public site** | Astro, built for accessibility and Core Web Vitals, with an agent that helps keep the content current |
 | **The infrastructure** | Ubuntu, nginx, Docker, DNS, and the runbooks that make a server reproducible rather than remembered |
 | **The deploy system** | OIDC-authenticated deployments from GitHub Actions, with no long-lived credentials on any machine |
+| **The sign-in door** | One way in for families and staff alike — signing in, signing up, getting back in. Started in October 2026 |
 | **The family app** | A native app for Android and iPhone, for the families who use the platform. Started in October 2026 |
 | **The shared documentation** | Where the repositories talk to each other, and the only place a cross-team decision is allowed to live |
 
